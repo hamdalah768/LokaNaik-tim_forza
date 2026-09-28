@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamdalah768.github.io/lokanaik.tim-forza/sitemap.xml
